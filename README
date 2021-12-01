@@ -1,3 +1,2 @@
-The file "Faces.mat" contains the images of 38 different faces with 64 different
-lighting scenarios in which the first 36 faces are used to train the algorithm and the last two
-to demonstrate its potential.
+The file "https://github.com/dusenberrymw/eigenfaces/blob/master/faces.mat" contains the images of 38 different faces with 64 different
+lighting scenarios in which the first 36 faces are used to train the algorithm and the last two to demonstrate its potential.
